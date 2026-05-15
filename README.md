@@ -167,7 +167,9 @@ Currently exploring <b>AI, Web Development, Java, PHP, Spring Boot, and Cloud Te
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Anurag_Kumar26/)
 
 ---
+## 🥇 LeetCode Badges
 
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">
 ## 📫 Connect With Me
 
 🔗 LinkedIn  
