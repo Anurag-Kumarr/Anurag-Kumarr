@@ -169,7 +169,7 @@ Currently exploring <b>AI, Web Development, Java, PHP, Spring Boot, and Cloud Te
 ---
 ## 🥇 LeetCode Badges
 
-<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="120">
+<img src="https://assets.leetcode.com/static_assets/others/25100.gif" width="120">     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/marketing/5.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/marketing/4.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/marketing/3.gif" width="120">    <img src="https://assets.leetcode.com/static_assets/marketing/2.gif" width="120">
 ## 📫 Connect With Me
 
 🔗 LinkedIn  
